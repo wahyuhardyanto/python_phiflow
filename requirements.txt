@@ -2,3 +2,4 @@ phiflow
 dash
 torch 
 torchvision
+tensorflow
