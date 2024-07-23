@@ -1,3 +1,2 @@
 phiflow
---upgrade git+https://github.com/tum-pbs/PhiFlow@develop
 dash
