@@ -1,2 +1,4 @@
 phiflow
 dash
+torch 
+torchvision
